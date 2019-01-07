@@ -17,13 +17,13 @@ We also realised that the app reviews and positive sentiments play an important 
 App success also depends on the category of the app. We can use these findings and insights to build successful products. 
 
 ## Files
-app_details.csv - [app_details.csv][1]
+[app_details.csv][1]
 
-app_reviews.csv - [app_reviews.csv][2]
+[app_reviews.csv][2]
 
-final_app_details.csv - [final_app_details.csv][3]
+[final_app_details.csv][3]
 
-final_app_reviews.csv - [final_app_reviews.csv][4]
+[final_app_reviews.csv][4]
 
 [1]: https://www.dropbox.com/s/4896t5e68almekk/app_details.csv?dl=1
 [2]: https://www.dropbox.com/s/o2o7g2o2wcdokbo/app_reviews.csv?dl=1
