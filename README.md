@@ -15,3 +15,9 @@ For already popular apps, positive sentiment does not have an impact on likeliho
 In conclusion, we see how sentiment analysis can be used to find favourable features and problem areas for apps of different categories.
 We also realised that the app reviews and positive sentiments play an important role in the initial phases of the app development but after achieving success, reviews do not have an impact.
 App success also depends on the category of the app. We can use these findings and insights to build successful products. 
+
+## Files
+app_details.csv - ![app_details.csv](https://www.dropbox.com/s/4896t5e68almekk/app_details.csv?dl=1)
+app_reviews.csv - ![app_reviews.csv](https://www.dropbox.com/s/o2o7g2o2wcdokbo/app_reviews.csv?dl=1)
+final_app_details.csv - ![final_app_details.csv](https://www.dropbox.com/s/ndicz60l9ilw5zd/final_app_details.csv?dl=1)
+final_app_reviews.csv - ![final_app_reviews.csv](https://www.dropbox.com/s/xa8p7c9eyaj6sks/final_app_reviews.csv?dl=1)
