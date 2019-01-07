@@ -25,7 +25,13 @@ App success also depends on the category of the app. We can use these findings a
 
 [final_app_reviews.csv][4]
 
+[final_url_list.txt][5]
+
+[search_results_urls.txt][6]
+
 [1]: https://www.dropbox.com/s/4896t5e68almekk/app_details.csv?dl=1
 [2]: https://www.dropbox.com/s/o2o7g2o2wcdokbo/app_reviews.csv?dl=1
 [3]: https://www.dropbox.com/s/ndicz60l9ilw5zd/final_app_details.csv?dl=1
 [4]: https://www.dropbox.com/s/xa8p7c9eyaj6sks/final_app_reviews.csv?dl=1
+[5]: https://www.dropbox.com/s/0cuut2p8rx1txsk/final_url_list.txt?dl=1
+[6]: https://www.dropbox.com/s/9vv6rh327t1lbyc/search_results_urls.txt?dl=1
